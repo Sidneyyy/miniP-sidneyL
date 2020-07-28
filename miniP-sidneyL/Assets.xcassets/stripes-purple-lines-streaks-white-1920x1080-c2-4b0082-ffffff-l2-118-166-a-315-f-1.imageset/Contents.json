@@ -1,0 +1,50 @@
+{
+  "images" : [
+    {
+      "filename" : "stripes-purple-lines-streaks-white-1920x1080-c2-4b0082-ffffff-l2-118-166-a-315-f-1.png",
+      "idiom" : "universal",
+      "resizing" : {
+        "cap-insets" : {
+          "bottom" : 648,
+          "left" : 922,
+          "right" : 683,
+          "top" : 0
+        },
+        "center" : {
+          "height" : 1,
+          "mode" : "tile",
+          "width" : 315
+        },
+        "mode" : "9-part"
+      },
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "1x",
+      "width-class" : "compact"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x",
+      "width-class" : "compact"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x",
+      "width-class" : "compact"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
